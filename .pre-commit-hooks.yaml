@@ -1,0 +1,9 @@
+# SPDX-FileCopyrightText: 2026 Rajat Sharma
+# SPDX-License-Identifier: MIT
+
+- id: licensestamp
+  name: licensestamp
+  description: Add or update SPDX license headers.
+  entry: licensestamp
+  language: python
+  types: [text]
